@@ -375,7 +375,7 @@
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>exec-maven-plugin</artifactId>
         <configuration>
-          <mainClass>org.jitsi.jicofo.Main</mainClass>
+          <mainClass>org.jitsi.jigasi.Main</mainClass>
         </configuration>
       </plugin>
     </plugins>
